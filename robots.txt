@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /engine/
+Disallow: /libraries/
+Disallow: /plugins/
+Disallow: /users/
+Disallow: /guestbook
+Sitemap: https://radmus.ru/sitemap.xml
+Host: radmus.ru
